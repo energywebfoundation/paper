@@ -2445,16 +2445,15 @@ light client reference implementation.
 <img src="images/stock_it.jpg">
 </table>
 
+# Appendix D.
+> Preliminary Validator Node Guidelines
+
 Inherent in a Proof-of-Authority network are criteria and
 processes for vetting and authorizing new validators. As
 a public blockchain, the EW Chain validator pool must be
 sufficiently diverse geographically and organizationally to
 attain the benefits of decentralization. At the same time,
-the EW Chain interfaces with critical physical infrastructure
-
-# Appendix D.
-> Preliminary Validator Node Guidelines
-
+the EW Chain interfaces with critical physical infrastructure,
 so mitigating the risks of malicious validator behavior is
 imperative. Thus, the EW Chain validator approval process
 must strike an appropriate balance between openness,
